@@ -5,4 +5,3 @@ projects
 
 contact
  - [tangnicholas26@gmail.com](mailto:tangnicholas26@gmail.com)
- - 
