@@ -1,6 +1,3 @@
-##   nicholas tang
-###  bay area
-
 ##   projects
  - p1
  - p2
