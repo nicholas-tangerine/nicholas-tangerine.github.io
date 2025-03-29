@@ -1,7 +1,7 @@
 education
  - ucsc (GPA: 3.9)
-  - b.s. computer science
-  - ee minor
+   - b.s. computer science
+   - ee minor
 
 projects
  - [n-body-sim](https://github.com/nicholas-tangerine/n-body-sim)
