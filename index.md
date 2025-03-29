@@ -1,7 +1,13 @@
+i love aeroplanes
+
 education
  - ucsc (GPA: 3.9)
    - b.s. computer science
    - ee minor
+
+what i'm working on
+ - learning unity
+   - hoping to use unity as a graphics engine to simulate aerodynamics of various objects
 
 projects
  - [n-body-sim](https://github.com/nicholas-tangerine/n-body-sim)
