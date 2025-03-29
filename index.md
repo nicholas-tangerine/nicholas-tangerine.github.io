@@ -6,7 +6,7 @@ i love aeroplanes
  - ucsc (GPA: 3.9)
    - b.s. computer science
    - ee minor
-   - [coursework](https://docs.google.com/document/d/1e5zQoYm-ysLvuQymgnULH0l5_x1_kjQbUc3h2Cs5UnQ/edit?usp=sharing)
+   - [link to coursework](https://docs.google.com/document/d/1e5zQoYm-ysLvuQymgnULH0l5_x1_kjQbUc3h2Cs5UnQ/edit?usp=sharing)
 
 ---
 
