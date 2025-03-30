@@ -14,7 +14,7 @@ i love aeroplanes
 
 ---
 
-# what i'm working on
+# current works...
  - learning unity
    - hoping to use unity as a graphics engine to simulate aerodynamics of various objects
  - trying to not fail diff eq
