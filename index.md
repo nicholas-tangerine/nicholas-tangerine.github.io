@@ -1,7 +1,8 @@
 # **Nicholas Tang**
 
-| <insert self portrait> | i love aeroplanes |
-| [RESUME](https://docs.google.com/document/d/1ATWdLgZeNuuMbrkygXd3X8yK5zObZiCE8n-l3l5jxFM/edit?usp=sharing) | lorem ipsum |
+i love aeroplanes
+
+[RESUME](https://docs.google.com/document/d/1ATWdLgZeNuuMbrkygXd3X8yK5zObZiCE8n-l3l5jxFM/edit?usp=sharing)
 
 ---
 
