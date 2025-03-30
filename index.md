@@ -2,7 +2,7 @@
 
 i love aeroplanes
 
-[RESUME HYPERLINK](https://docs.google.com/document/d/1ATWdLgZeNuuMbrkygXd3X8yK5zObZiCE8n-l3l5jxFM/edit?usp=sharing)
+### [RESUME HYPERLINK](https://docs.google.com/document/d/1ATWdLgZeNuuMbrkygXd3X8yK5zObZiCE8n-l3l5jxFM/edit?usp=sharing)
 
 # Education
  - ucsc (GPA: 3.9)
@@ -16,7 +16,7 @@ i love aeroplanes
  - trying to not fail diff eq
 
 # Projects 
-[GITHUB HYPERLINK](https://github.com/nicholas-tangerine)
+### [GITHUB HYPERLINK](https://github.com/nicholas-tangerine)
  - [img to ascii art](https://github.com/nicholas-tangerine/png-to-text)
    - Converts images to ascii art in the cli. Stretches image to conform to cli window.
  - [window wise](https://github.com/nicholas-tangerine/WindowWise)
