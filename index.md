@@ -15,7 +15,8 @@ i love aeroplanes
    - hoping to use unity as a graphics engine to simulate aerodynamics of various objects
  - trying to not fail diff eq
 
-# Projects [GITHUB HYPERLINK](https://github.com/nicholas-tangerine)
+# Projects 
+[GITHUB HYPERLINK](https://github.com/nicholas-tangerine)
  - [img to ascii art](https://github.com/nicholas-tangerine/png-to-text)
    - Converts images to ascii art in the cli. Stretches image to conform to cli window.
  - [window wise](https://github.com/nicholas-tangerine/WindowWise)
