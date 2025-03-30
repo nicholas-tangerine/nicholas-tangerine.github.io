@@ -1,7 +1,6 @@
 theme: minima
 
 title: portfolio.
-site.title: ""
 author: nicholas tang.
 
 jekyll-seo-tag: false
