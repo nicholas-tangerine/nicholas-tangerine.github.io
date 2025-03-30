@@ -3,4 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: portfolio.
+description: this is a webpage
 author: nicholas tang.
