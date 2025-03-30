@@ -1,4 +1,4 @@
-# **Nicholas Tang**
+Nicholas Tang
 
 [me](https://raw.githubusercontent.com/nicholas-tangerine/nicholas-tangerine.github.io/refs/heads/main/images/physics%20intersect%20computing.png)
 
