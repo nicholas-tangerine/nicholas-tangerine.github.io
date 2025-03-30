@@ -1,7 +1,5 @@
 Nicholas Tang
 
-![me](https://raw.githubusercontent.com/nicholas-tangerine/nicholas-tangerine.github.io/refs/heads/main/images/physics%20intersect%20computing.png)
-
 i love aeroplanes
 
 [RESUME](https://docs.google.com/document/d/1ATWdLgZeNuuMbrkygXd3X8yK5zObZiCE8n-l3l5jxFM/edit?usp=sharing)
@@ -27,6 +25,11 @@ i love aeroplanes
  - [n-body-sim](https://github.com/nicholas-tangerine/n-body-sim)
  - [png to ascii art](https://github.com/nicholas-tangerine/png-to-text)
  - [window wise](https://github.com/nicholas-tangerine/WindowWise)
+
+---
+i am an ELEMENT (of physics intsersect computing)
+![me](https://raw.githubusercontent.com/nicholas-tangerine/nicholas-tangerine.github.io/refs/heads/main/images/physics%20intersect%20computing.png)
+
 
 ---
 
