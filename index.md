@@ -5,7 +5,7 @@ i love aeroplanes
 ### [RESUME HYPERLINK](https://docs.google.com/document/d/1ATWdLgZeNuuMbrkygXd3X8yK5zObZiCE8n-l3l5jxFM/edit?usp=sharing)
 
 # Education
- - UC Santa Cruz (GPA: 3.9)
+ - \_UC Santa Cruz (GPA: 3.9)\_
    - B.S. Computer Science
    - EE Minor
    - [COURSEWORK HYPERLINK](https://docs.google.com/document/d/1e5zQoYm-ysLvuQymgnULH0l5_x1_kjQbUc3h2Cs5UnQ/edit?usp=sharing)
