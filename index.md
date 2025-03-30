@@ -13,7 +13,7 @@ i love aeroplanes
 # Current works...
  - learning unity
    - hoping to use unity as a graphics engine to simulate aerodynamics of various objects
- - trying to not fail diff eq
+ - trying to not fail differential equations
 
 # Projects 
 ### [GITHUB HYPERLINK](https://github.com/nicholas-tangerine)
@@ -26,7 +26,7 @@ i love aeroplanes
    - Broke it during a refactor lol
 
 # Misc
-i am an ELEMENT (of physics intsersect computing)
+i am an element of physics and computing
 
 ![me](https://raw.githubusercontent.com/nicholas-tangerine/nicholas-tangerine.github.io/refs/heads/main/images/physics%20intersect%20computing.png)
 
