@@ -2,3 +2,5 @@ theme: minima
 
 title: portfolio.
 author: nicholas tang.
+
+jekyll-seo-tag: false
