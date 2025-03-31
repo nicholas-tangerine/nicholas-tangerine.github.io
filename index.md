@@ -8,7 +8,7 @@ i love aeroplanes
  - __UC Santa Cruz (GPA: 3.9)__
    - B.S. Computer Science
    - EE Minor
-   - [COURSEWORK HYPERLINK](https://docs.google.com/document/d/1e5zQoYm-ysLvuQymgnULH0l5_x1_kjQbUc3h2Cs5UnQ/edit?usp=sharing)
+###   - [COURSEWORK HYPERLINK](https://docs.google.com/document/d/1e5zQoYm-ysLvuQymgnULH0l5_x1_kjQbUc3h2Cs5UnQ/edit?usp=sharing)
 
 # Current works...
  - learning unity
