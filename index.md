@@ -14,7 +14,7 @@ i love aeroplanes
  - learning unity
    - hoping to use unity as a graphics engine to simulate aerodynamics of various objects
  - trying to not fail differential equations
-   - damn the method of integrating factors can be used for first order linear diff eqs?!!?!?
+   - we can use the method of integrating factors to solve first order linear diff eqs?!?!
 
 # Projects 
 [GITHUB HYPERLINK](https://github.com/nicholas-tangerine)
