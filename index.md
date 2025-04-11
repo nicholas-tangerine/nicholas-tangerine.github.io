@@ -21,6 +21,8 @@ i love aeroplanes
  - [img to ascii art](https://github.com/nicholas-tangerine/png-to-text)
    - Converts images to ascii art in the cli. Stretches image to conform to cli window.
  - [window wise](https://github.com/nicholas-tangerine/WindowWise)
+   - An initiative to reduce energy usage and global emissions
+     - Uses existing data on UCSC housing to help users use outdoor temperature fluctuations to climatise their environment.
    - ACMHacks entry. Collaborated with [Sean Goudie](https://github.com/Flqsh) and [Jonathan Uhler](https://github.com/JonathanUhler).
  - [n-body-sim](https://github.com/nicholas-tangerine/n-body-sim)
    - Simulates `n` particles orbiting each other... often shooting off into infinite space
