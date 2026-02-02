@@ -1,0 +1,98 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #120b08;
+}
+
+body {
+  font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+.flow-canvas {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
+  display: block;
+  background: radial-gradient(circle at center, rgba(255, 110, 90, 0.08), transparent 60%);
+  z-index: 0;
+}
+
+.overlay {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5vh;
+}
+
+.card {
+  max-width: min(720px, 90vw);
+  backdrop-filter: blur(8px);
+  background: rgba(18, 11, 8, 0.55);
+  border: 1px solid rgba(255, 220, 200, 0.25);
+  border-radius: 18px;
+  padding: 32px;
+  color: #fbe6db;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: 0.75rem;
+  margin: 0 0 12px;
+  color: rgba(255, 220, 200, 0.65);
+}
+
+.card h1 {
+  font-size: clamp(2.2rem, 4vw, 3.4rem);
+  margin: 0 0 10px;
+}
+
+.subtitle {
+  margin: 0 0 22px;
+  color: rgba(255, 220, 200, 0.75);
+  font-size: 1.05rem;
+}
+
+.link-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.link-row a {
+  color: #fff4ee;
+  text-decoration: none;
+  border: 1px solid rgba(255, 220, 200, 0.4);
+  padding: 8px 14px;
+  border-radius: 999px;
+  transition: transform 0.2s ease, background 0.2s ease;
+}
+
+.link-row a:hover {
+  transform: translateY(-2px);
+  background: rgba(255, 220, 200, 0.15);
+}
+
+@media (max-width: 600px) {
+  .overlay {
+    padding: 3vh;
+  }
+
+  .card {
+    padding: 24px;
+  }
+}
