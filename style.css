@@ -87,9 +87,45 @@ body {
   background: rgba(255, 220, 200, 0.15);
 }
 
+.info-box {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  z-index: 1;
+  width: min(320px, 80vw);
+  background: rgba(18, 11, 8, 0.55);
+  border: 1px solid rgba(255, 220, 200, 0.25);
+  border-radius: 16px;
+  padding: 18px 20px;
+  color: #fbe6db;
+  backdrop-filter: blur(8px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35);
+}
+
+.info-box h2 {
+  margin: 0 0 8px;
+  font-size: 1rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(255, 220, 200, 0.75);
+}
+
+.info-box p {
+  margin: 0;
+  font-size: 0.95rem;
+  color: rgba(255, 220, 200, 0.8);
+  line-height: 1.4;
+}
+
 @media (max-width: 600px) {
   .overlay {
     padding: 3vh;
+  }
+
+  .info-box {
+    right: 16px;
+    bottom: 16px;
+    width: min(280px, 85vw);
   }
 
   .card {
