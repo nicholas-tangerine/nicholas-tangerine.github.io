@@ -123,9 +123,7 @@ body {
   }
 
   .info-box {
-    right: 16px;
-    bottom: 16px;
-    width: min(280px, 85vw);
+    display: none;
   }
 
   .card {

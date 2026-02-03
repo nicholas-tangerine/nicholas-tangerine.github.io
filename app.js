@@ -252,15 +252,15 @@ const draw = () => {
   });
 
   sources.forEach((s, index) => {
-    const drift = 60 + index * 80;
-    s.angle += 0.008 * s.speed;
+    const drift = 60 + index * 15;
+    s.angle += 0.004 * s.speed;
     s.x = width * 0.3 + Math.cos(s.angle + index * 2) * drift;
     s.y = height * 0.3 + Math.sin(s.angle + index * 1.5) * drift;
   });
 
   sinks.forEach((s, index) => {
-    const drift = 70 + index * 74;
-    s.angle += 0.007 * s.speed;
+    const drift = 70 + index * 12;
+    s.angle += 0.0035 * s.speed;
     s.x = width * 0.7 + Math.cos(s.angle + index * 2.5) * drift;
     s.y = height * 0.7 + Math.sin(s.angle + index * 1.8) * drift;
   });
