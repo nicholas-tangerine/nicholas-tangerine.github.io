@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "nicholas tang"
+  navbar:
+    left:
+      - href: index.qmd
+        text: home
+      - href: about.qmd
+        text: about
+      - href: quotes.qmd
+        text: quotes
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
