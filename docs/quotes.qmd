@@ -1,8 +1,13 @@
-## quotes
+## Quotes
 
 Here lies a compilation of my favorite quotes:
 
-* "i think that everyone is always trying their best" - lisa sohn (my favorite eng teacher, not verbatim)
+* "I think that everyone is always trying their best" - Ms. Lisa Sohn (my
+  favorite eng teacher, not verbatim)
+    + While comforting, it does make an easy excuse to get out of work. One can
+      simply say that they are already trying my best and thus do not need to
+      push myself to learn or achieve more. Discounting that, this quote
+      certainly does help us sympathize other people more by giving them the
+      benefit of the doubt.
 
-if i was literate there'd probably be more on this page...
-<!-- if i had read more books when i was young there would probably be more on this page....-->
+if I was literate there'd probably be more on this page...

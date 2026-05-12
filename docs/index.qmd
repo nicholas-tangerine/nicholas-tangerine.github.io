@@ -1,7 +1,13 @@
-## home
+### Nicholas Tang
 
-[resume (pdf)](https://github.com/nicholas-tangerine/resume/blob/main/resume.pdf)   |
-[tangnicholas26@gmail.com](mailto:tangnicholas26@gmail.com) | +1 (925) 660-5921     \
+Resume: [PDF](https://github.com/nicholas-tangerine/resume/blob/main/resume.pdf)    \
+Email: [tangnicholas26@gmail.com](mailto:tangnicholas26@gmail.com)                  \
+Phone: +1 (925) 660-5921                                                            \
 
-c programmer, music nerd, battery chemistry enthusiast                              \
+I classify myself as a C programmer, music nerd, and battery chemistry enthusiast   \
 
+## About
+* Incoming SWE Intern at Rivian and Volkswagen Group Technologies for Charging
+* (No Formal Title) ECE Lab
+    + Designing PCB for minimal breakout board for TI's C2000 (Altium)
+* Formula Slug, FSAE @ UCSC
