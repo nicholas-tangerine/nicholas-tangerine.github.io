@@ -1,7 +1,12 @@
+## professional
+* incoming swe intern at rivian and volkswagen group technologies for charging
+* (no formal title) ece lab
+    + designing PCB for minimal breakout board for TI's C2000 (Altium)
+
 ## hobbies and such
+* studying the EV industry
+    + market analysis, vertical integration practices, etc.
 * i play guitar (a lot of polyphia)
     + i believe that establishing efficient and effortless technique is key to
       unlocking the instrument as a second voice of expression
-* studying the EV industry
-    + market analysis, vertical integration practices, etc.
 * exploring quiet areas, enjoying the spring breeze while sitting under the trees
